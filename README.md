@@ -7,7 +7,7 @@
 
 
 <strong>Aim:</strong> 
-A revenue analysis allows businesses to keep track of where they're at, and make accurate assessments on where to spend their resources in order to maximize profits. Hence, the purpose of this project is to perform a revenue analysis of Walmart's sales data
+A revenue analysis allows businesses to keep track of where they're at, and make accurate assessments on where to spend their resources in order to maximize profits. Hence, the purpose of this project is to perform a revenue analysis of Walmart's sales data from 2013-2015.
  
 <strong>Application Used: </strong>
 Tableau
